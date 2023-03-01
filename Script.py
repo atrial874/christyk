@@ -8,6 +8,9 @@ class script(object):
 
     SOURCE_TXT = """Till now not published """
 
+    OWNER_TXT = """✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/filesharebotusers>AML UPDATES</a>
+Contact Owner for more details through:-"""
+
     FILE_TXT = """Just files storee"""
     
     MANUELFILTER_TXT = """Help: <b>Filters</b>
